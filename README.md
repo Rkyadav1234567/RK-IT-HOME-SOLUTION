@@ -67,7 +67,20 @@ footer {
     padding: 20px 0;
     text-align: center;
 }
-> <!-- Link to your CSS file -->
+> <body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background: linear-gradient(to bottom, #f4f4f4, #ccc); /* Gradient background */
+}
+
+header {
+    background: #333; /* Dark background for header */
+    color: #fff;
+    padding: 20px 0;
+}
+
+/* Rest of your CSS styles... */
+>
     <// JavaScript for image slider
 let slideIndex = 0;
 showSlides();
